@@ -1,3 +1,3 @@
 ## Official Website for LIAMZONE
 
-- Hosted at [www.liamzone.co.za](LIAMZONE).
+- Hosted at [LIAMZONE](https://www.liamzone.co.za).
