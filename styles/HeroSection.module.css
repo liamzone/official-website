@@ -1,0 +1,26 @@
+.heroSection {
+  background: rgb(175, 114, 255);
+  height: 100vh;
+  position: relative;
+  overflow: hidden;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.pageTitle {
+  text-align: center;
+  font-size: 5rem;
+  color: rgba(255, 255, 255, 0.801);
+}
+
+.col {
+  display: flex;
+  align-items: center;
+}
+
+.imgContainer {
+  height: 80vh;
+  position: relative;
+}

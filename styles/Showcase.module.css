@@ -1,0 +1,12 @@
+.showcase {
+  background-color: rgb(20, 20, 20);
+  color: rgb(230, 230, 230);
+  height: 50vh;
+  display: flex;
+  align-items: center;
+}
+
+.content {
+  display: flex;
+  align-items: center;
+}
